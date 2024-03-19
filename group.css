@@ -78,6 +78,7 @@ body.active .wrapper .sidebar {
     margin-right: auto;
     padding: 20px;
     box-sizing: border-box;
+    z-index: 10;
 }
 
 .group-button {
